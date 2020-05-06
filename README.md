@@ -1,6 +1,6 @@
 # flagGame
 
-Flag game with leaderboard
+Flag game with online leaderboard. Created with React
 
 https://nlszekely.github.io/flagGame/
 
